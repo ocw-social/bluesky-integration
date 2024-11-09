@@ -1,6 +1,11 @@
 # OCW.Social BlueSky Integration
 
-## BlueSky bridge for Mastodon with custom domain
+While OCW.Social is a Mastodon server, it is possible for Mastodon and BlueSky to interact with each other with the help of [Bridgy Fed](https://fed.brid.gy). In addition, Mastodon users can set up their bridged account on BlueSky with the `ocw.social` domain as it's handle **and** BlueSky users can use the `ocw.social` domain for their handle.
+
+* 👉 **For Mastodon users**, you can [follow these instructions](#-bluesky-bridge-for-mastodon-with-custom-domain).
+* 👉 **For BlueSky users**, you can [follow these instructions](#-bluesky-ocwsocial-handle-and-mastodon-bridge).
+
+## 🦣 BlueSky bridge for Mastodon with custom domain
 
 If you want to set up your bridged Mastodon account on BlueSky with the `ocw.social` domain as your handle, follow these steps:
 
@@ -22,7 +27,7 @@ If you want to set up your bridged Mastodon account on BlueSky with the `ocw.soc
 
 Your bridge account on BlueSky will now be that custom handle.
 
-## BlueSky `ocw.social` handle
+## 🦋 BlueSky `ocw.social` handle and Mastodon bridge
 
 If you want to use the `ocw.social` domain for your BlueSky handle, instead of the `bsky.social` domain, you can do so by following these steps:
 
